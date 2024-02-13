@@ -26,4 +26,5 @@ Visualization
 Various types of visualizations, including bar charts, line graphs, and pie charts, were created to present the analyzed data in a visually appealing and informative manner. These visualizations help stakeholders to easily interpret and understand the insights derived from the data.
 
 Conclusion
+
 The analysis of Vrinda Store's data provides valuable insights into customer behavior, product performance, sales trends, and other important aspects of the business. These insights can be used to make informed decisions, optimize business processes, and drive growth and profitabilit
